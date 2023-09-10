@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using Steamworks;
 using NameSpaceID;
 
+
 namespace Plugin_1
 {
     internal class CustomHudWendi : RocketPlugin<HudConfig>
